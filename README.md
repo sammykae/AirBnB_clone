@@ -1,4 +1,4 @@
-##### AIRBNB CLONE - THE CONSOLE
+# AIRBNB CLONE - THE CONSOLE
 
 ![AirBnB](./assets/hbnb_logo.png)
 
