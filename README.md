@@ -1,16 +1,12 @@
 ##### AIRBNB CLONE - THE CONSOLE
 
-![AirBnB](assets/hbnb_logo.png)
+![AirBnB](./assets/hbnb_logo.png)
 
 ## DESCRIPTION
 
 **AirBnB** is a _complete web application_,it is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in specific locales. integrating database storage, a back-end API, and front-end interface.
 
 This is part 1 of our AirBnb Clone project. The purpose of this project is to make a command interpreter that manages our AirBnb objects.
-
-#### Data Diagram
-
-![data_diagram](assets/data_diagram.jpg)
 
 ## CONCEPTS LEARNT
 
